@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub Profile!
+
+## First things first, my name is Vinícius Campos Goulart.
 
 <!--
 **vinicgoulart/vinicgoulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- , currently studying at ETEC Maria Cristina Medeiros, I really enjoy Cybersecurity and, as a hobby, programming.
 -->
