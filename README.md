@@ -7,7 +7,7 @@ Hello there! My name is Vinícius Campos Goulart, I studied IT at ETEC Maria Cri
 So far, I have learnt how to code in both PHP and Java. I am also trying to learn other coding languages and technologies, per example Javascript and NodeJS.
 
 ## Contact Me
-<a href=”https://www.linkedin.com/in/vinicius-campos-goulart-2627901b3/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/vinicius-campos-goulart-2627901b3/"><img align=”left” src=”https://raw.githubusercontent.com/vinicgoulart/vinicgoulart/branch/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 ## Github status card
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=vinicgoulart)](https://github.com/vinicgoulart)
