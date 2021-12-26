@@ -1,6 +1,7 @@
 ### Welcome to my GitHub Profile!
 
-## First things first, my name is Vinícius Campos Goulart.
+## About me
+Hello there! My name is Vinícius Campos Goulart, I studied IT at ETEC Maria Cristina Medeiros and learned there so many things. Currently I am 17 and I am always looking for new knowledge.
 
 <!--
 **vinicgoulart/vinicgoulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
