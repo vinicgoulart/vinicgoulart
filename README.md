@@ -4,23 +4,23 @@
 Hello there! My name is Vinícius Campos Goulart, I studied IT at ETEC Maria Cristina Medeiros and learned there so many things. Currently I am 17 and I am studying Cybersecurity as I learn new programming languages, best practices and ideas.
 
 ## Programming Languages and Technologies
--HTML
--CSS
--Bootstrap
--Javascript
--VueJS
--Vuetify
--ReactJS
--NodeJS
--PHP
--Laravel
--MySQL
--MongoDB
--Java
--C#
--ASP.NET
--Python
--Flutter
+-HTML <br/>
+-CSS <br/>
+-Bootstrap <br/>
+-Javascript <br/>
+-VueJS <br/>
+-Vuetify <br/>
+-ReactJS <br/>
+-NodeJS <br/>
+-PHP <br/>
+-Laravel <br/>
+-MySQL <br/>
+-MongoDB <br/>
+-Java <br/>
+-C# <br/>
+-ASP.NET <br/>
+-Python <br/>
+-Flutter <br/>
 
 ## Contact Me
 You can contact me through [Linkedin](https://www.linkedin.com/in/viniciuscamposgoulart/).
