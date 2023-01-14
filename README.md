@@ -1,5 +1,5 @@
 ## About me
-Hello there! My name is Vinícius Campos Goulart, I studied IT at ETEC Maria Cristina Medeiros and learned there so many things. Currently I am 17 and I am studying Cybersecurity as I learn new programming languages, best programming practices and ideas. <br/>
+Hello there! My name is Vinícius Campos Goulart, I studied IT at ETEC Maria Cristina Medeiros and learned there so many things. Currently I am 18 and I am studying Cybersecurity as I learn new programming languages, best programming practices and ideas. <br/>
 When it comes to programming, I am really into developing web and mobile apps. Any kind of constructive criticism about my projects is welcome, I am really looking forward to improve my coding skills!
 
 ## Programming Languages and Technologies
@@ -7,20 +7,13 @@ When it comes to programming, I am really into developing web and mobile apps. A
 - CSS <br/>
 - Bootstrap <br/>
 - Javascript <br/>
-- VueJS <br/>
-- Vuetify <br/>
 - ReactJS <br/>
 - NodeJS <br/>
 - PHP <br/>
 - Laravel <br/>
 - MySQL <br/>
 - MongoDB <br/>
-- Java <br/>
-- C# <br/>
-- ASP.NET <br/>
-- Python <br/>
-- Flutter <br/>
-- React Native <br/>
+- ExpressJS
 
 ## Contact Me
 You can contact me through [Linkedin](https://www.linkedin.com/in/viniciuscamposgoulart/).
