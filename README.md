@@ -17,8 +17,3 @@ When it comes to programming, I am really into developing web and mobile apps. A
 
 ## Contact Me
 You can contact me through [Linkedin](https://www.linkedin.com/in/viniciuscamposgoulart/).
-
-## Github status card
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=vinicgoulart)](https://github.com/vinicgoulart)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicgoulart&layout=compact)](https://github.com/vinicgoulart)
