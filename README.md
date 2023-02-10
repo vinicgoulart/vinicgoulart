@@ -13,7 +13,8 @@ When it comes to programming, I am really into developing web and mobile apps. A
 - Laravel <br/>
 - MySQL <br/>
 - MongoDB <br/>
-- ExpressJS
+- ExpressJS <br/>
+- Typescript
 
 ## Contact Me
 You can contact me through [Linkedin](https://www.linkedin.com/in/viniciuscamposgoulart/).
